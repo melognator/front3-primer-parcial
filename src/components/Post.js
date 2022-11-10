@@ -35,7 +35,7 @@ export default function Post(props) {
         <p>{contenido.texto}</p>
         <button onClick={() => (
           sumarLikePost()
-        )}>Sumar like</button>
+        )}>👍</button>
         <h5>{renderizarLikes()}</h5>
     </div>
   )

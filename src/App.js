@@ -25,7 +25,6 @@ function App() {
     <div className="App">
       <Estatus {...likeProps} />
       <Posteos {...likeProps} />
-      <h4 style={{textAlign: 'center'}}>Cantidad total de likes: {likes}</h4>
     </div>
   );
 }
