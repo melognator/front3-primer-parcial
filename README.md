@@ -1,6 +1,5 @@
 # Primer parcial de la materia Front-end III
 ## Digital House
-___
 
 ## Demo del resultado
 
